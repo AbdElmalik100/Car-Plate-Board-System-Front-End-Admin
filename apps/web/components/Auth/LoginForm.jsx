@@ -59,7 +59,7 @@ const LoginForm = () => {
                         </Field>
                         <Field>
                             <FieldLabel>
-                                Password
+                                كلمة المرور
                             </FieldLabel>
                             <Input
                                 id='password'
